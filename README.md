@@ -1,7 +1,4 @@
-# Projects_CelesteBazzi
-University projects
-
-# 📁 Celeste Bazzi - Portfolio Progetti
+# Celeste Bazzi - University projects
 
 Welcome to my academic project repository. This collection includes software, simulations, and analyses developed primarily in the fields of Artificial Intelligence, Computer Vision, Augmented Reality, Natural Language Processing (NLP) and Symbolic and Distributed Artificial  Intelligence (S&DAI).
 
