@@ -19,4 +19,4 @@ An intelligent system for automatically simulating the Pokémon card game. The p
 * **Technologies & Tool:** Java, JADE (Java Agent Development Framework), JavaFX, Python (BeautifulSoup, Stanza NLP), Maven.
 
 
-* **Email:** celeste.harleybazzi@gmail.com
+ **Email:** celeste.harleybazzi@gmail.com
